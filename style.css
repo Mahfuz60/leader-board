@@ -6,7 +6,7 @@ body{
     background-color:rgb(207, 241, 241);
 }
 section{
-    background-color:rgb(189, 186, 186);
+    background-color:rgb(248, 239, 239);
 }
 .section_title{
     color: blue;
@@ -115,6 +115,7 @@ main{
 }
 .course{
     grid-template-columns:repeat(3,1fr);
+    margin:0 50px;
 }
 .course_info{
     display:flex;
